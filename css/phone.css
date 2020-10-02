@@ -1,0 +1,61 @@
+/*navigation*/
+#navbar{
+    flex-direction:column ;
+    background-color: rgb(248, 203, 227);
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+}
+/*home -section*/
+#home{
+height: 370px; 
+padding: 3px 68px; 
+padding-bottom: 8px;
+}
+#home::before{
+    height: 480px;
+
+}
+#home p{
+    font-size: 13px;
+}
+/*about section*/
+#about{
+    flex-direction: column;
+}
+
+#about .box{
+    padding: 34px;
+    margin:2px 5px;
+margin-bottom: 20px;
+}
+
+/*technical skills*/
+#skills{
+flex-wrap: wrap;
+}
+#skills img{
+    width: 66px;
+    padding:2px 6px;
+}
+
+
+/*hobbies section*/
+#hobby-section{
+
+}
+/*contact - section*/
+#contact{
+
+}
+
+/*footer*/
+/*utility clSSES*/
+.h-primary{
+   font-size: 26px;   
+}
+.btn{
+    font-size: 13px;
+    padding:4px 8px;
+}
