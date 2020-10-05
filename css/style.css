@@ -45,15 +45,7 @@ html{
     height:3cm;
     
 }
-#logo p{
-    
-    font-family: 'Baloo Bhai 2', cursive;
-    text-align: left;
-    font-size: 1rem;
-    color: rgb(230, 12, 67);
 
-    
-}
 
 
 /* navbr:list styling*/
@@ -87,6 +79,21 @@ font-size: 1.3 rem;
 }
 
 
+#para{
+    text-align:  center; 
+    
+}
+
+#para h1{
+  
+   
+
+font-family: 'Bree Serif', serif;
+    
+    font-size: 2.79rem;
+    color: rgb(192, 18, 235);
+
+}
 /*home section*/
 
 #home{
@@ -94,7 +101,7 @@ font-size: 1.3 rem;
     display: flex;
     flex-direction: column;
     padding: 3px 2px;
-    height: 590px;
+    height: 540px;
     justify-content: center;
     align-items: center;
 }
